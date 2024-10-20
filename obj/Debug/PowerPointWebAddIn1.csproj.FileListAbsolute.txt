@@ -1,0 +1,2 @@
+D:\studying\self-learning\vsto\PowerPointWebAddIn1\obj\Debug\PowerPointWebAddIn1.csproj.AssemblyReference.cache
+D:\studying\self-learning\vsto\PowerPointWebAddIn1\obj\Debug\PowerPointWebAddIn1.csproj.CoreCompileInputs.cache

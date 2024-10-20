@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\PowerPointWebAddIn1Manifest.xml
+D:\studying\self-learning\vsto\PowerPointWebAddIn1\bin\Debug\PowerPointWebAddIn1.debugapp
